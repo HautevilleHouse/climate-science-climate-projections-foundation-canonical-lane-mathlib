@@ -1,0 +1,11 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace ClimateScienceClimateProjectionsFoundationCanonicalLaneLean
+
+structure ClimateAdmittedObject where
+  object : AdmittedObject
+  conclusion : Prop
+
+end ClimateScienceClimateProjectionsFoundationCanonicalLaneLean
+end HautevilleHouse
